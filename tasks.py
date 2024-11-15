@@ -1,5 +1,5 @@
 import numpy as np
-
+from tasks import * #imported since having difficulty seeing where issues arose, and saw this in grade tasks
 # Follow the tasks below to practice basic Python concepts.
 # Write your code in between the dashed lines.
 # Don't import additional packages. Numpy suffices.
