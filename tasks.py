@@ -14,7 +14,7 @@ import numpy as np
 
 # Your code here:
 def compute_output_size_1d(input_array, kernel_array):
-    return (len(input_array) - len(kernel_array) + 1)
+    return len(input_array) - len(kernel_array) + 1
 
 
 # Task 2: 1D Convolution
